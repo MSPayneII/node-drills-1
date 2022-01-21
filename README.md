@@ -12,7 +12,7 @@ Node Drills 1 was a homework assignment provided by the [Bright Paths Program](h
 
 ## Technologies:
 
-- React
+- Node
 
 ## Author
 
